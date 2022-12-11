@@ -1,8 +1,11 @@
-# mcapi-rs
+# DocTeam Server API
 
 Rewrite of [mcapi] in Rust.
 
 [mcapi]: https://github.com/Syfaro/mcapi
+
+Originally developped by Syfaro. Edited by 9e_Docteur
+
 
 ## Configuration
 
